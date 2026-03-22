@@ -1,0 +1,5 @@
+{
+  "name": "Simple Counter",
+  "description": "A clean and interactive counter application built with React, Tailwind CSS, and Motion.",
+  "requestFramePermissions": []
+}
